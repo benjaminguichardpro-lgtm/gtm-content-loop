@@ -13,7 +13,7 @@ The skill is a generic base. On first run it interviews you (product, audience, 
 ## Install
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/benjaminguichardpro-lgtm/gtm-content-loop.git
 cp -R gtm-content-loop/skills/gtm-content-loop ~/.claude/skills/
 ```
 
