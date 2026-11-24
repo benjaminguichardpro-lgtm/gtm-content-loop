@@ -32,7 +32,7 @@ Also check prerequisites and tell the user what is missing, without installing a
 - Zernio MCP connected (tools for media upload, posts, automations, inbox, analytics). If absent, stop and explain how to connect it.
 - For `remotion-call`: Node, Python 3, a full ffmpeg and ffprobe (the one bundled with Remotion is not enough). See `templates/video-remotion/`.
 
-Then create `gtm-loop.journal.md` from `references/journal-template.md` if it does not exist, and generate the DM persona prompt from `references/dm-persona-template.md` filled with the config values.
+Then create `gtm-loop.journal.md` from `references/journal-template.md` if it does not exist, and generate the DM persona prompt from `references/dm-persona-template.md` filled with the config values, and save it as `gtm-dm-persona-prompt.md`.
 
 Add `gtm-loop.config.json` to `.gitignore` if the project is a git repo (it holds account ids).
 
