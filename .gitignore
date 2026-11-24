@@ -1,0 +1,7 @@
+gtm-loop.config.json
+gtm-loop.journal.md
+node_modules/
+out/
+public/voice/
+script_timed.json
+.DS_Store

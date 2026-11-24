@@ -1,0 +1,60 @@
+{
+ "mentor": "Your Mentor",
+ "hook": "If you're losing clients in 5 minutes, listen to Your Mentor.",
+ "ringSec": 2.5,
+ "endText": "Comment MENTOR. I'll call you.",
+ "stopwatch": {
+  "fromSegment": 5,
+  "label": "MY REPLY TIME"
+ },
+ "segments": [
+  {
+   "pose": "phone",
+   "text": "Someone's interested in you.",
+   "say": "Someone's interested in you.",
+   "gap": 0.08
+  },
+  {
+   "pose": "skeptic",
+   "text": "You reply tomorrow.\nThey're gone.",
+   "say": "You reply tomorrow. They're gone.",
+   "gap": 0.08
+  },
+  {
+   "pose": "one",
+   "text": "1. Reply in under\n60 seconds.",
+   "say": "One. Reply in under sixty seconds.",
+   "gap": 0.08
+  },
+  {
+   "pose": "two",
+   "text": "2. Can't? Automate\nthe first reply.",
+   "say": "Two. Can't? Automate the first reply.",
+   "gap": 0.08
+  },
+  {
+   "pose": "three",
+   "text": "3. Time every reply.",
+   "say": "Three. Time every reply.",
+   "gap": 0.08
+  },
+  {
+   "pose": "stopwatch",
+   "text": "Don't believe me?\nComment. Watch my speed.",
+   "kind": "big",
+   "say": "Don't believe me? Comment. Watch how fast I answer.",
+   "gap": 0.08
+  },
+  {
+   "pose": "point",
+   "text": "Comment MENTOR\nI'll call you myself.",
+   "kind": "cta",
+   "say": "Comment MENTOR. I'll call you myself.",
+   "gap": 0.35
+  },
+  {
+   "pose": "hangup",
+   "hold": 1.0
+  }
+ ]
+}

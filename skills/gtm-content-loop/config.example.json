@@ -1,0 +1,16 @@
+{
+  "product": "A one sentence description of what you sell",
+  "audience": "Who watches and comments",
+  "persona": {
+    "name": "Mentor Name",
+    "tone": "calm, direct, short sentences",
+    "flaw": "a visible quirk that makes the character memorable",
+    "fictional": true
+  },
+  "keyword": "GUIDE",
+  "landing_url": "https://example.com",
+  "language": "en",
+  "instagram_account": { "label": "my_account", "zernio_account_id": "FILL_ME" },
+  "video_format": "remotion-call",
+  "hook_pattern": "If you're [situation], listen to [persona]."
+}
