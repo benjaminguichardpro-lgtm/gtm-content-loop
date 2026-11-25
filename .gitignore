@@ -1,7 +1,26 @@
+# Local config and journal (hold account ids and results)
 gtm-loop.config.json
 gtm-loop.journal.md
+gtm-dm-persona-prompt.md
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+.claude/settings.local.json
+
+# Generated video outputs
 node_modules/
 out/
+*.mp4
 public/voice/
+public/poses/
+public/sfx/
 script_timed.json
+
+# Python / OS
+__pycache__/
+.venv/
+*.log
 .DS_Store

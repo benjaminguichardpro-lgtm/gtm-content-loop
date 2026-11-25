@@ -14,7 +14,7 @@ The skill is a generic base. On first run it interviews you (product, audience, 
 
 ```bash
 git clone https://github.com/benjaminguichardpro-lgtm/gtm-content-loop.git
-cp -R gtm-content-loop/skills/gtm-content-loop ~/.claude/skills/
+mkdir -p ~/.claude/skills && cp -R gtm-content-loop/skills/gtm-content-loop ~/.claude/skills/
 ```
 
 Then in your project, tell Claude: "setup gtm loop", and later "new batch".
