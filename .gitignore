@@ -2,6 +2,7 @@
 gtm-loop.config.json
 gtm-loop.journal.md
 gtm-dm-persona-prompt.md
+gtm-loop.pending.md
 
 # Secrets
 .env

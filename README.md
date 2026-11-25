@@ -17,7 +17,7 @@ git clone https://github.com/benjaminguichardpro-lgtm/gtm-content-loop.git
 mkdir -p ~/.claude/skills && cp -R gtm-content-loop/skills/gtm-content-loop ~/.claude/skills/
 ```
 
-Then in your project, tell Claude: "setup gtm loop", and later "new batch".
+Then in your project, tell Claude: "setup gtm loop", and later "new batch". 48 hours after publishing, say "measure" (or let a recurring task do it): Claude reads the stats through Zernio, finds what worked, and prepares variants of the winners for your approval.
 
 ## Contents
 

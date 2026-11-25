@@ -12,5 +12,6 @@
   "language": "en",
   "instagram_account": { "label": "my_account", "zernio_account_id": "FILL_ME" },
   "video_format": "remotion-call",
-  "hook_pattern": "If you're [situation], listen to [persona]."
+  "hook_pattern": "If you're [situation], listen to [persona].",
+  "measure_interval_hours": 48
 }
